@@ -14,6 +14,8 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+
+```
 Coefficient matrix
 A = [[5, -3, -10],
      [2, 2, -3],
@@ -49,6 +51,7 @@ x = [round(i) for i in x]
 
 Print exactly like expected output
 print(f"[{x[0]}.  {x[1]}. {x[2]}.]")
+```
 
 ## Output:
 ![image](https://github.com/vinodharanivengatesan/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/main/Screenshot%202026-03-18%20093745.png?raw=true)
